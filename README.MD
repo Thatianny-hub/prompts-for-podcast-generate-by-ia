@@ -26,28 +26,25 @@
     <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
 </div>
 
-# Projeto Podcast Gerado por I.A.s
+Link: (https://www.notion.so/TechTalk-Brasil-Podcast-DIO-18d3b0c9caa180aaba1aea8717312806?pvs=4) 
+(https://www.notion.so/Gest-o-de-Demandas-4-0-A-Ponte-entre-Stakeholders-e-TI-18d3b0c9caa1808b992ef1dd1eeb4eac?pvs=4)
 
-
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
-
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
-
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
+# Projeto Podcast das Unidades de Negócio
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
-- [Capcut](https://www.capcut.com/pt-br/)
+
 
 ## ✨ Como foi feito ?
 
 - Roteiro gerado via chatgpt
+Crie um roteiro de 3 minutos para o podcast "Gestão de Demandas 4.0: A Ponte entre Stakeholders e TI", que remete à era digital e moderna da gestão e explica bem o papel do podcast como facilitador entre as necessidades dos stakeholders e as soluções de TI.
+
 - Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
-- Capcut para tratar aúdio e adicionar sons de fundo
+
+
 
 ## 📚 Materiais
 
